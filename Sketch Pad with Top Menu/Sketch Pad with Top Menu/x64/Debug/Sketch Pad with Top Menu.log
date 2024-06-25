@@ -1,0 +1,4 @@
+﻿  Sketch Pad with Top Menu.cpp
+D:\Sketch Pad with Top Menu\Sketch Pad with Top Menu\Sketch Pad with Top Menu.cpp(165,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Sketch Pad with Top Menu\Sketch Pad with Top Menu\Sketch Pad with Top Menu.cpp(362,67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Sketch Pad with Top Menu.vcxproj -> D:\Sketch Pad with Top Menu\x64\Debug\Sketch Pad with Top Menu.exe
